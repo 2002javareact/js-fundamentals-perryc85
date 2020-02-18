@@ -12,6 +12,4 @@ try{
     console.log(substring(6, 0, 2))
 }catch(e){
     throw new Error('Invalid input! Please enter a valid word');
-}finally{
-    
 }
